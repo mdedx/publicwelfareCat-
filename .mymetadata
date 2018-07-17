@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="publicwelfareCat"
+  id="myeclipse.1531819356342"
+  context-root="/publicwelfareCat"
+  j2ee-spec="6.0"
+  archive="publicwelfareCat.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
